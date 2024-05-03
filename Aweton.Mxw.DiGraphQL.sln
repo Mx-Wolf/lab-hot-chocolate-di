@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aweton.Mxw.Endpoint.Web", "Aweton.Mxw.Endpoint.Web\Aweton.Mxw.Endpoint.Web.csproj", "{F0E898F2-7E33-4B4B-896B-0FC3C0AB993F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E898F2-7E33-4B4B-896B-0FC3C0AB993F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E898F2-7E33-4B4B-896B-0FC3C0AB993F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E898F2-7E33-4B4B-896B-0FC3C0AB993F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E898F2-7E33-4B4B-896B-0FC3C0AB993F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4679EE-7F88-43F6-B4AF-D8D9504AA830}
+	EndGlobalSection
+EndGlobal

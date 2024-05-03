@@ -1,0 +1,6 @@
+@Aweton.Mxw.Endpoint.Web_HostAddress = http://localhost:5179
+
+GET {{Aweton.Mxw.Endpoint.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
